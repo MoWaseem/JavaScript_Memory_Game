@@ -82,6 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (cardsChosen.length === 2) {
       setTimeout(checkForMatch, 500);
     }
+    1234;
   }
   createBoard();
 });
